@@ -2,20 +2,20 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>wayk-now</id>
-    <version>2019.2.1.0</version>
+    <version>2020.2.0.0</version>
     <title>Wayk Now</title>
     <authors>Devolutions</authors>
-    <owners>boubou</owners>
+    <owners>devolutions</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <docsUrl>https://wayk.devolutions.net/fr/compare</docsUrl>
+    <docsUrl>https://helpwayk.devolutions.net</docsUrl>
     <licenseUrl>https://cdndevolutions.blob.core.windows.net/documents/legal/eula/eula-wayk-now-en.pdf</licenseUrl>
     <projectUrl>https://wayk.devolutions.net/</projectUrl>
-    <iconUrl>https://rawcdn.githack.com/boubou/chocolatey/a22900f7a6445235ecca5be4c7ff22fd6ad20bdd/packages/icons/wayknow.png</iconUrl>
-    <description>Wayk Now is a flexible, easy-to-use and lightweight remote desktop access solution that reduces implementation time while maintaining the latest industry security standards. When integrated with Devolutions Remote Desktop Manager, it enables easy management, scalability and increased efficiency through a single, unique platform for all remote sessions. Wayk Now is the ideal remote desktop access solution for both IT professionals and business users alike!</description>
-    <summary>Wayk Now comes in two editions: Free and Enterprise. The Free Edition can be used for both personal and commercial purposes while the Enterprise Edition is a paid version which delivers a more complete feature set including unattended access, concurrent sessions and remote execution. Click on the button below for a comparison between both editions.</summary>
-    <releaseNotes>https://wayk.devolutions.net/fr/release-notes</releaseNotes>
-    <copyright>Copyright 2019 Devolutions</copyright>
+    <iconUrl>https://webdevolutions.blob.core.windows.net/images/projects/wayk-now/logos/wayk-now-icon-ps.png</iconUrl>
+    <description>Wayk Now is a cross-platform remote desktop and remote support software for Windows, macOS, Linux, iOS and Android.</description>
+    <summary>Wayk Now - Instant Remote Support and Remote Desktop</summary>
+    <releaseNotes>https://wayk.devolutions.net/wayk-now/release-notes</releaseNotes>
+    <copyright>Copyright 2020 Devolutions</copyright>
     <tags>devolutions wayk now remote control</tags>
-    <packageSourceUrl>https://github.com/boubou/chocolatey/tree/master/packages/packages/wayk-now</packageSourceUrl>
+    <packageSourceUrl>https://github.com/Devolutions/choco-wayk-now</packageSourceUrl>
   </metadata>
 </package>
